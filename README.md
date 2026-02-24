@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 # Hi 👋, I'm Boris Vainrub. 
 
-###I specialize Enterprise Content Management | ERP | Databricks | ELT | Delta Lake | M-Files | Digital Document Transformation | Customer Deployment | Work Flow Solution and Integration
+### I specialize Enterprise Content Management | ERP | Databricks | ELT | Delta Lake | M-Files | Digital Document Transformation | Customer Deployment | Work Flow Solution and Integration
 
 ### Data Engineer
 
 ![](https://komarev.com/ghpvc/?username=bvainrub&color=blue&style=flat)
 
-- 🌱 I'm currently learning **...**
-- 👨‍💻 My projects: [My Portfolio](https://bvainrub.github.io/)
-- 📫 Reach me at: **your@email.com**
+- 🌱 I'm currently learning ** Refill my knowledge with Databricks**
+- 👨‍💻 My projects in portfolio: [My Portfolio](https://bvainrub.github.io/)
+- 📫 Reach me at: **bvainrub@gmail.com**
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/boris-vainrub/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymane-maghouti-86959a24a" height="30" width="40" /></a>
