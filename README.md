@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 ### Data Engineer
 
-![Visitor Count](https://visitor-badge.io/badge?page_id=bvainrub.bvainrub)
+![](https://komarev.com/ghpvc/?username=bvainrub&color=blue&style=flat)
 
 - 🌱 I'm currently learning **...**
-- 👨‍💻 My projects: [your-website.com](https://your-website.com)
+- 👨‍💻 My projects: [My Portfolio](https://bvainrub.github.io/)
 - 📫 Reach me at: **your@email.com**
 
 ### Connect with me:
