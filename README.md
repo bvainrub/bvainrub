@@ -3,7 +3,7 @@
 
 - 🔭 I’m working on new project related to the **Walk in Clinic Patient**
 
-- 🌱 Expanding my skills in **Databricks** — lakehouse architecture, Delta Lake & ML and workin to achive **Databrick Enginner Certification**.
+- 🌱 Expanding my skills in **Databricks** — lakehouse architecture, Delta Lake & ML, and working towards achieving the **Databricks Engineer Certification**.
 
 - 👨‍💻 My projects and additional information are available on my **[portfolio](https://bvainrub.github.io/)**
 
