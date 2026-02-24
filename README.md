@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - 📫 Reach me at: **your@email.com**
 
 ### Connect with me:
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/YOUR_LINKEDIN)
-
+<a href="https://www.linkedin.com/in/boris-vainrub/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymane-maghouti-86959a24a" height="30" width="40" /></a>
 ### GitHub Stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=bvainrub&show_icons=true&locale=en)
