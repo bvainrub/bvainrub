@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm Boris Vainrub. 
+
+###I specialize Enterprise Content Management | ERP | Databricks | ELT | Delta Lake | M-Files | Digital Document Transformation | Customer Deployment | Work Flow Solution and Integration
 
 ### Data Engineer
 
