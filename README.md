@@ -8,6 +8,7 @@
 - 👨‍💻 My projects and additional information are available on my **[portfolio](https://bvainrub.github.io/)**
 
 - 📫 Reach me out by email: **bvainrub@gmail.com**
+-  My Certification : **[Credly](https://www.credly.com/users/bvainrub)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
