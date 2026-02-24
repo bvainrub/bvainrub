@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi 👋, I'm [Your Name]
+
+### Data Engineer
+
+![Visitor Count](https://visitor-badge.io/badge?page_id=bvainrub.bvainrub)
+
+- 🌱 I'm currently learning **...**
+- 👨‍💻 My projects: [your-website.com](https://your-website.com)
+- 📫 Reach me at: **your@email.com**
+
+### Connect with me:
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/YOUR_LINKEDIN)
+
+### GitHub Stats:
+![Stats](https://github-readme-stats.vercel.app/api?username=bvainrub&show_icons=true&locale=en)
