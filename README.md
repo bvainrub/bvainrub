@@ -9,6 +9,8 @@
 
 - 📫 Reach me out by email: **bvainrub@gmail.com**
 -  My Certification : **[Credly](https://www.credly.com/users/bvainrub)**
+  ![](https://komarev.com/ghpvc/?username=bvainrub&color=blue&style=flat)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
