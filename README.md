@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Boris Vainrub</h1>
 <h3 align="center">Enterprise Content Management | ERP | Databricks | ELT | Delta Lake | M-Files | Digital Document Transformation | Customer Deployment | Work Flow Solution and Integration</h3>
 
-- 🔭 I’m working on new project related to the **Walk in Clinic Patient**
+Experienced Data Engineer with 20 years’ experience in IT industries , skilled in data analysis and modeling, particularly in DB and ETL\ELT process configuration. Possesses strong analytical and problem-solving abilities, excelling in devising innovative solutions. I am a proactive problem-solver and committed to delivering high-quality software solutions that exceed customer expectations. Team player motivated to assist peers.
 
-- 🌱 Expanding my skills in **Databricks** — lakehouse architecture, Delta Lake & ML, and working towards achieving the **Databricks Engineer Certification**.
+Skills
+• Data Management: Proficient in extracting data from RDBMS or NoSQL DBs into DWHs such as MSSQL, PostgreSQL, MySQL, and Access. Transform and clean data with DAX, Python, VB Scripts, or Excel Macros. Create data frames, dimension and fact tables, pipelines and automate the process with SSIS, Python, Airflow or SSRS.
+• Data Analyses: Proficiency in designing and deploying high-quality weekly, and monthly reports with Power BI, Tableau, IBM Cognos and SSRS. Analyze team-presented data to make the right decisions on time. Strong ability to apply analytical skills to create comprehensive reports and dashboards. 
+• Problem Tracking and Management: Experience in identifying, reporting, and managing projects by using bug-tracking systems like JIRA, Breeze and Dynamic 365 CRM for customer support.
+• Project Management: Implemented and managed content platform solutions focusing on records management and intelligent content management, meeting high user expectations
 
-- 👨‍💻 My projects and additional information are available on my **[portfolio](https://bvainrub.github.io/)**
+- I’m working now on new project related to the **Walk in Clinic Patient**
 
-- 📫 Reach me out by email: **bvainrub@gmail.com**
+- Expanding my skills in **Databricks** — lakehouse architecture, Delta Lake & ML, and working towards achieving the **Databricks Engineer Certification**.
+
+- My projects and additional information are available on my **[portfolio](https://bvainrub.github.io/)**
 
 -  My Certification : **[Credly](https://www.credly.com/users/bvainrub)**
  
@@ -15,7 +21,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bvainrub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bvainrub" height="30" width="40" /></a>
+
+  <a href="https://github.com/bvainrub">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-bvainrub-black?logo=github"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/boris-vainrub">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Boris%20Vainrub-blue?logo=linkedin">
+  </a>
+<a href="mailto:bvainrub@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-Boris%20Vainrub-red?logo=gmail">
+</a>
+
+
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
