@@ -13,20 +13,23 @@ Skills
 
 - Expanding my skills in **Databricks** — lakehouse architecture, Delta Lake & ML, and working towards achieving the **Databricks Engineer Certification**.
 
-- My projects and additional information are available on my **[portfolio](https://bvainrub.github.io/)**
-
--  My Certification : **[Credly](https://www.credly.com/users/bvainrub)**
+- <a href="https://bvainrub.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Boris%20Vainrub-orange?logo=databricks&logoColor=white"></a> My projects and additional information
+- <a href="https://www.credly.com/users/bvainrub/badges#credly"><img alt="Credly" src="https://img.shields.io/badge/Credly-Boris%20Vainrub-orange?logo=credly"></a> My Certification
  
-![](https://komarev.com/ghpvc/?username=bvainrub&color=blue&style=flat)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
   <a href="https://github.com/bvainrub">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-bvainrub-black?logo=github"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/boris-vainrub">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Boris%20Vainrub-blue?logo=linkedin">
-  </a>
+
+
+<a href="https://www.linkedin.com/in/boris-vainrub">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Boris%20Vainrub-0A66C2?logo=linkedin&logoColor=white">
+</a>
+
+ 
 <a href="mailto:bvainrub@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-Boris%20Vainrub-red?logo=gmail">
 </a>
@@ -40,5 +43,7 @@ Skills
 
 
 
-
+![](https://komarev.com/ghpvc/?username=bvainrub&color=blue&style=flat)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bvainrub&" alt="bvainrub" /></p>
+
+
